@@ -13,4 +13,4 @@ The goal of this project is to create a landing page, showcasing a visually appe
 
 ## Demo
 
-A live demo of the Nike landing page can be found at https://tniharika123.github.io/Nike-Clone/
+A live demo of the Nike landing page can be found at https://tniharika123.github.io/Nike-Shoes-Webpage/
